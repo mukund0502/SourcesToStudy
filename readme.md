@@ -1,5 +1,5 @@
 # Important Algorithms asked in interview 
-# Graph
+## Graph
 1. dfs 
 2. bfs
 3. Cycle detection in undirected graph:
@@ -20,7 +20,7 @@
 12. kosaraju's algorithm to find **strongly connected component => discovered by all nodes to all nodes** 
 
 
-# Tree
+## Tree
 1. Inorder, Postorder, Preorder traversal 
 2. left view, top view, bottom view of tree
 3. vertical order traversal 
@@ -30,14 +30,14 @@
 7. Binary Tree Maximum Path Sum
 ... To be continued
 
-# Stack and Queue
+## Stack and Queue
 1. Balanced parantheses 
 2. **Next greater element**
 3. Largest rectangle in histogram 
 4. Sliding Window Maximum 
 
 
-# Heap 
+## Heap 
 1. Max heap, Min Heap implementation (Hard)
 2. kth largest element 
 3. k most frequent element 
@@ -46,7 +46,7 @@
 6. maximum sum combination 
 
 
-# Greedy 
+## Greedy 
 1. N meetings in a room 
 2. Minimum num of platform required 
 3. job sequencing problem 
@@ -54,7 +54,7 @@
 5. minimum number of coins 
 
 
-# Dynamic programming 
+## Dynamic programming 
 Types of DP questions: 
 1. 0/1 knapsack =>
     * Subset sum 
